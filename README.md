@@ -1,7 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=printjin-gmailcom&hide=stars&count_private=true&show_icons=true&&theme=graywhite&rank_icon=github) &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=printjin)](https://solved.ac/printjin/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=printjin-gmailcom&langs_count=6) ![image](https://github.com/user-attachments/assets/8732a031-8f9a-4f48-8a8a-6345093854b5)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=printjin-gmailcom&langs_count=6) ![image](https://github.com/user-attachments/assets/c6c2fdcd-dbec-48d4-8d1c-33fc6033cc33)
 
 
 
