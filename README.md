@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=printjin-gmailcom&hide=stars,commits&count_private=true&show_icons=true&&theme=graywhite&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=printjin-gmailcom&hide=stars&count_private=true&show_icons=true&&theme=graywhite&rank_icon=github)
  &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=printjin)](https://solved.ac/printjin/)
 
 
