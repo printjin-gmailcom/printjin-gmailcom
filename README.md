@@ -1,6 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=printjin-gmailcom&hide=stars&count_private=true&show_icons=true&&theme=graywhite&rank_icon=github) &nbsp; [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=printjin)](https://solved.ac/printjin/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=printjin-gmailcom&langs_count=6)
 
 #### 🔧 Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
